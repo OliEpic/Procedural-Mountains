@@ -107,3 +107,9 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.buildship.core 1 0 2016-08-18 17:34:49.484
 !MESSAGE Initialize Gradle classpath for project 'One-desktop' succeeded.
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2016-08-18 17:45:10.128
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2016-08-18 17:45:10.150
+!MESSAGE unexpected method call (NullSarosSession.java:64)
